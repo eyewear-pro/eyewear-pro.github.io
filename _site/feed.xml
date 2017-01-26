@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-26T14:45:35+09:00</updated><id>http://localhost:4000//</id><title type="html">Open Eyewear</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">33c3 Talk: Beyond VR and AR</title><link href="http://localhost:4000/posts/2016/12/30/33c3.html" rel="alternate" type="text/html" title="33c3 Talk: Beyond VR and AR" /><published>2016-12-30T00:00:00+09:00</published><updated>2016-12-30T00:00:00+09:00</updated><id>http://localhost:4000/posts/2016/12/30/33c3</id><content type="html" xml:base="http://localhost:4000/posts/2016/12/30/33c3.html">&lt;p&gt;Last year I gave a talk at the 33c3 about recent
+trends in research beyond virtual and augmented reality.&lt;/p&gt;
+
+&lt;p&gt;Although most of the talk focuses on Superhuman Sports, 
+I go also into some details about enabeling technologies, mentioning smart eyewear
+and also the Presto project.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aEFaInB0Dp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here’s the abstract of the talk:&lt;/p&gt;
+
+&lt;p&gt;With recent development in capture technology, 
+preserving one’s’ daily experiences and one’s’ knowledge 
+becomes richer and more comprehensive. Furthermore, 
+new recording technologies beyond simple audio/video
+recordings become available: 360° videos, tactile 
+recorders and even odor recorders are becoming available. 
+The new recording technology and the massive amounts of 
+data require new means for selecting, displaying and 
+sharing experiences.&lt;/p&gt;
+
+&lt;p&gt;Sharing experiences and knowledge have always been essential 
+for human development. They enable skill transfers and empathy. 
+  Over history, mankind developed from oral traditions to 
+  cultures of writing. With the ongoing digital revolution, 
+  the hurdles to share knowledge and experiences vanish. 
+  Already today it is, for example, technically feasible 
+  to take and store 24/7 video recordings of one’s’ life. 
+  While this example creates massive collections of data, it makes it even more challenging to share experiences and knowledge with others in meaningful ways.&lt;/p&gt;</content><category term="posts" /><summary type="html">Last year I gave a talk at the 33c3 about recent
+trends in research beyond virtual and augmented reality.</summary></entry><entry><title type="html">JST Presto Project on Open Eyewear</title><link href="http://localhost:4000/posts/2016/11/10/presto.html" rel="alternate" type="text/html" title="JST Presto Project on Open Eyewear" /><published>2016-11-10T00:00:00+09:00</published><updated>2016-11-10T00:00:00+09:00</updated><id>http://localhost:4000/posts/2016/11/10/presto</id><content type="html" xml:base="http://localhost:4000/posts/2016/11/10/presto.html">&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/default.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;This project is interdisciplinary research focusing on 
+I'm exited to be one of few none-Japanese researchers to receive a JST Presto (Sakigake) project grant, on the Topic Open Collective Eyewear.
+This page will be presenting updates and information about the project progress.
+&lt;/p&gt;
+
+&lt;p&gt;Information unfortunately in Japanese:
+&lt;a href=&quot;https://www.jst.go.jp/kisoken/presto/news/2016/161118/161118presto.pdf&quot;&gt;JST Annoucement&lt;/a&gt;
+Here’s a short summary about the project direction and goals.&lt;/p&gt;
+
+&lt;p&gt;Attention is a finite resource, and we need to use it smartly.
+We need new tools to manage our attention better, 
+to improve our collective intelligence. 
+There are patterns in human physiological signals 
+(facial expressions, heart rate, nose temperature, 
+eye movements, blinks, etc.) that can reveal information
+about intentions and cognitive functions of individuals 
+and groups. So far, this data is only heavily exploited by
+advertisement and marketing companies. This project aims at
+exploring these patterns using an Open Eyewear Platform to 
+understand our behavior better.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/eyewear-overview.jpg&quot; alt=&quot;overview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;the use of patterns in physiological signals to quantify 
+and improve our daily practices using a smart glasses design. 
+First, we assess the link between behavior 
+patterns/physiological signals and social/cognitive 
+functions using specialized medical hardware (ground truth) 
+and we quantify them in real life (from the lab to everyday life). 
+In a second step, we explore interactions to improve behavior: 
+learn smarter, work smarter, live smarter.&lt;/p&gt;
+
+&lt;p&gt;Two publications that are the basis for the project and
+a good summary of previous work:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/bulling2016eyewear.pdf&quot;&gt;&lt;em&gt;Eyewear computers for human-computer interaction&lt;/em&gt;&lt;/a&gt;. Bulling, Andreas and Kunze, Kai. interactions 23, 3. 2016. &lt;a href=&quot;/papers/bib/bulling2016eyewear.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/amft2015making.pdf&quot;&gt;&lt;em&gt;Making Regular Eyeglasses Smart&lt;/em&gt;&lt;/a&gt;. Amft, Oliver and Wahl, Florian and Ishimaru, Shoya and Kunze, Kai. Pervasive Computing, IEEE. 2015. &lt;a href=&quot;/papers/bib/amft2015making.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;</content><category term="posts" /><summary type="html">This project is interdisciplinary research focusing on 
+I'm exited to be one of few none-Japanese researchers to receive a JST Presto (Sakigake) project grant, on the Topic Open Collective Eyewear.
+This page will be presenting updates and information about the project progress.</summary></entry><entry><title type="html">Origins of Eyewear Computing</title><link href="http://localhost:4000/posts/2016/11/01/background.html" rel="alternate" type="text/html" title="Origins of Eyewear Computing" /><published>2016-11-01T00:00:00+09:00</published><updated>2016-11-01T00:00:00+09:00</updated><id>http://localhost:4000/posts/2016/11/01/background</id><content type="html" xml:base="http://localhost:4000/posts/2016/11/01/background.html">&lt;p&gt;Smart glasses and, in general, eyewear are a relatively novel device class with a lot of possibilities for unobtrusive human-computer interaction, sensing, and even human computer integration.&lt;/p&gt;
+
+&lt;p&gt;We started a while back working in the team of Masahiko Inami Sensei at the time at Keio Media Design in collaborative
+research with J!NS. This lead to the first unobtrusive sensing glasses, J!NS MEME.&lt;/p&gt;
+
+&lt;p&gt;I cover a lot of the initial research in early talks at the Chaos Communication Congress.  Here’s the presentation about the concept of Eyewear Computing.&lt;/p&gt;
+
+&lt;p&gt;Video on Youtube:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aWO8aejiRnA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;Slides on Speakerdeck:
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;f75c69a07f4c01328d155ab31af9093f&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition, we also organized a &lt;a href=&quot;http://www.dagstuhl.de/16042&quot;&gt;Dagstuhl Seminar&lt;/a&gt; on the topic.
+&lt;a href=&quot;http://drops.dagstuhl.de/opus/volltexte/2016/5820/pdf/dagrep_v006_i001_p160_s16042.pdf&quot;&gt;Report and Summary of the Seminar&lt;/a&gt;&lt;/p&gt;</content><category term="posts" /><summary type="html">Smart glasses and, in general, eyewear are a relatively novel device class with a lot of possibilities for unobtrusive human-computer interaction, sensing, and even human computer integration.</summary></entry></feed>

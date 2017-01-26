@@ -1,2 +1,2 @@
-# eyewear-pro.github.io
-web page
+# eyewear-test
+new page for the open eyewear project
