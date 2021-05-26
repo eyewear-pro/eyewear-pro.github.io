@@ -6,7 +6,7 @@ layout: none
   <title>Eyewear 2021 – The Forth Workshop on Eyewear Computing. Augmenting Social Situations and Democratizing Tools.</title>
   <meta charset="UTF-8">
   <meta name="keywords" content="Human-Computer Interaction, Eyetracking, Open Eyewear, HCI, Workshop, Wearables">
-  <meta name="author" content="Kirill Ragozin">
+  <meta name="author" content="Kirill">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link href="/assets/vendor/aos/dist/aos.css" rel="stylesheet" type="text/css" media="all">
@@ -57,9 +57,9 @@ layout: none
   
   <section id="introduction" class="muse-section border-gray-800">
     <div class="row g-0">
-      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto  bg-gray-200 rounded-12 px-5 py-5 text-black">
+      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto  bg-gray-200 rounded-12 px-md-5 px-2 py-5 text-black">
         <h2 class="display-4 text-left mb-5 mt-4">Introduction</h2>
-        <div class="big lh-md">
+        <div class="big px-2 lh-md">
           <p class="py-2">Head-worn sensing, especially embedded in augmented and virtual reality (AR/VR) head-mounted displays and smart glasses is currently increasingly moving away from niche applications and small-scale research prototypes to large-scale consumer adoption (e.g. Oculus Quest 2, Hololens 2, J!NS MEME, Bose Frames).</p>
 
           <p class="py-2">Significant progress in sensing technologies and modalities have lead to a constant increase of commercially available products and unobtrusive, affordable research prototypes. These recent advances allow us to extend the Eyewear Community to enable large scale in-situ studies, as one of the favored research methodologies in Ubiquitous Computing. One manifestation of this can already be observed in large scale dataset recording, eyewear student competitions and programming seminars.</p>
@@ -77,9 +77,9 @@ layout: none
 
   <section id="program" class="muse-section border-gray-800">
     <div class="row g-0">
-      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto rounded-12 px-5 py-5 text-white kw-bg-blue">
+      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto rounded-12 px-md-5 px-2 py-5 text-white kw-bg-blue">
         <h2 class="display-4 text-left mb-5 mt-4">Program</h2>
-        <div class="big lh-md">
+        <div class="big px-2 lh-md">
           <h2 class="my-3 pt-5 border-top">Workshop activities</h2>
           <h5 class="my-3 mt-4">Welcome <span class="badge badge-warning mx-2 pb-2">10:00 - 11:30</span></h5>
           <p>The workshop will start with an introduction given by the workshop organizers in which they will summarize the workshop's motivation, goals, and outline (10:00-10:15).
@@ -107,9 +107,9 @@ The presentation session will be broken into two parts with a short break in bet
 
   <section id="organizers" class="muse-section border-gray-800">
     <div class="row g-0">
-      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto  bg-gray-800 rounded-12 px-5 py-5 text-white">
+      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto  bg-gray-800 rounded-12 px-md-5 px-2 py-5 text-white">
         <h2 class="display-4 text-left mb-5 mt-4">Organizers</h2>
-        <div class="big lh-md">
+        <div class="big px-2 lh-md">
           <p class="py-2"><strong class="text-info">Kirill Ragozin</strong> is a postdoctoral researcher at Keio University Graduate School of Media Design. His major research contributions are in mixed reality and embodied thermal interactions. His research interests include immersive digital media, eye tracking and interaction design using wearable electronics.
           </p>
 
@@ -138,9 +138,9 @@ The presentation session will be broken into two parts with a short break in bet
 
   <section id="call-for-participation" class="muse-section border-gray-800">
     <div class="row g-0">
-      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto kw-bg-cyan rounded-12 px-5 py-5 text-white">
+      <div class="col-lg-10 py-xl-4 my-xl-2 m-auto kw-bg-cyan rounded-12 px-md-5 px-2 py-5 text-white">
         <h2 class="display-4 text-left mb-5 mt-4 text-warning">Call for participation</h2>
-        <div class="big lh-md">
+        <div class="big px-2 lh-md">
         <p class="py-2 mb-4">
           The human face, holding the majority of human senses, provides versatile information about a person's cognitive and affective states. Using head-worn technology, user states, such as reading, walking, detection of fatigue or cognitive load, can be recognized and enable new application scenarios, such as quantified self for the mind.
 Besides, significant progress in sensing technologies and modalities have led to a constant increase in unobtrusive and affordable head-worn sensing devices, such as smart glasses like Google Glass or J!NS meme.
