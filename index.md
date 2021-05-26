@@ -140,7 +140,7 @@ The presentation session will be broken into two parts with a short break in bet
   <section id="call-for-participation" class="muse-section border-gray-800">
     <div class="row g-0">
       <div class="col-lg-10 py-xl-4 my-xl-2 m-auto kw-bg-cyan rounded-12 px-5 py-5 text-white">
-        <h2 class="display-4 text-left mb-5 mt-4 text-warning">Call for participation</h2>
+        <h2 class="display-4 text-left mb-5 mt-4 text-success">Call for participation</h2>
         <div class="big lh-md">
         <p class="py-2 mb-4">
           The human face, holding the majority of human senses, provides versatile information about a person's cognitive and affective states. Using head-worn technology, user states, such as reading, walking, detection of fatigue or cognitive load, can be recognized and enable new application scenarios, such as quantified self for the mind.
