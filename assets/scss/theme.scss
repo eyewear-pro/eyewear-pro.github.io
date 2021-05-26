@@ -1,0 +1,30 @@
+/* Bootstrap setup */
+@import '../vendor/bootstrap/scss/functions';
+/* Muse setup */
+@import 'muse/variables';
+/* Bootstrap core */
+@import '../vendor/bootstrap/scss/bootstrap';
+@import 'muse/muse';
+
+@media (min-width: 1320px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+.kw-bg-blue {
+  // background-color: #371E9E;
+  background-color: $blue-800;
+}
+
+.kw-bg-cyan {
+  background-color: $cyan-800;
+}
+
+.badge-warning {
+  background-color: $yellow-700;
+}
+
+.badge-warning {
+  background-color: $yellow-500;
+}
