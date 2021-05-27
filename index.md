@@ -164,7 +164,7 @@ Therefore, we also welcome topics that are concerned with physical or psychologi
 We invite submissions of position papers (2-4 pages in the ACM sigconf format, excluding references) that cover topics such as, but are not limited to:
 </p>
 
-<ul class="py-1 pb-4">
+<ul class="py-1 pb-4 bg-warning rounded-12 text-black px-5 py-4">
     <li> Open Eyewear Tools and Datasets </li>
     <li> Eyewear sensing and actuation technologies </li>
     <li> Smart Eyewear interactions </li>
@@ -173,7 +173,7 @@ We invite submissions of position papers (2-4 pages in the ACM sigconf format, e
     <li> Smart Eyewear User Experience Designs </li>
 </ul>
 
-<p class="py-4 border-top mt-4">Submissions will go through a single-phase review process with at least 2 reviewers. They will be assessed based on their relevance, originality, and their potential of initiating a fruitful discussion at the workshop. Note, that position papers are not expected to present finished research projects. We rather ask for thought-provoking ideas or initial explorations of a topic. Position papers will be reviewed by two of the workshop organizers. At the workshop, accepted submissions will be presented in a 5-min prerecorded video, following the Pecha Kucha style. At least one author of an accepted submission must attend the workshop. </p>
+<p class="py-4 mt-3">Submissions will go through a single-phase review process with at least 2 reviewers. They will be assessed based on their relevance, originality, and their potential of initiating a fruitful discussion at the workshop. Note, that position papers are not expected to present finished research projects. We rather ask for thought-provoking ideas or initial explorations of a topic. Position papers will be reviewed by two of the workshop organizers. At the workshop, accepted submissions will be presented in a 5-min prerecorded video, following the Pecha Kucha style. At least one author of an accepted submission must attend the workshop. </p>
         </div>
       </div>
     </div>
