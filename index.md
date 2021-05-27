@@ -6,7 +6,8 @@ layout: none
   <title>Eyewear 2021 – The Forth Workshop on Eyewear Computing. Augmenting Social Situations and Democratizing Tools.</title>
   <meta charset="UTF-8">
   <meta name="keywords" content="Human-Computer Interaction, Eyetracking, Open Eyewear, HCI, Workshop, Wearables">
-  <meta name="author" content="Kirill">
+  <meta name="description" content="The Forth Workshop on Eyewear Computing: Augmenting Social Situations and Democratizing Tools.">
+  <meta name="author" content="Kirill Ragozin">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link href="/assets/vendor/aos/dist/aos.css" rel="stylesheet" type="text/css" media="all">
