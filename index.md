@@ -208,7 +208,6 @@ We invite submissions of position papers (2-4 pages in the ACM sigconf format, e
 
 <!-- Muse Javascript Plugins -->
 <script src="/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-<script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="/assets/vendor/aos/dist/aos.js"></script>
 <script>
   AOS.init ({
