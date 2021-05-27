@@ -14343,4 +14343,9 @@ header .nav-link {
 .badge-warning {
   background-color: #ffc107; }
 
+@media (max-width: 768px) {
+  .big {
+    font-size: 16px;
+    line-height: 24px; } }
+
 /*# sourceMappingURL=overwrite.css.map */
