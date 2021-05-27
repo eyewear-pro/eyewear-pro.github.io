@@ -9,7 +9,7 @@ layout: none
   <meta name="description" content="The Forth Workshop on Eyewear Computing: Augmenting Social Situations and Democratizing Tools.">
   <meta name="author" content="Kirill Ragozin">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="/assets/fv/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link href="/assets/vendor/aos/dist/aos.css" rel="stylesheet" type="text/css" media="all">
   <link href="/assets/css/overwrite.css" rel="stylesheet" type="text/css" media="all">
 </head>
