@@ -89,9 +89,9 @@ layout: none
   <section id="program" class="muse-section border-gray-800">
     <div class="row g-0">
       <div class="col-lg-10 py-xl-4 my-xl-2 m-auto rounded-12 px-md-5 px-2 py-5 text-white kw-bg-blue">
-        <h2 class="display-4 text-left mb-1 mt-2 mb-md-5 mt-md-4 px-2">Program</h2>
+        <h2 class="display-4 text-left mb-1 mt-2 mb-md-0 mt-md-4 px-2">Program</h2>
         <div class="big px-2 lh-md">
-          <h2 class="my-3 pt-3 pt-md-5 border-top">Workshop activities</h2>
+          <h2 class="my-3 pt-3 pt-md-5">Workshop activities</h2>
           <h5 class="my-3 mt-4">Welcome <span class="badge badge-warning mx-2 pb-2">10:00 - 11:30</span></h5>
           <p>The workshop will start with an introduction given by the workshop organizers in which they will summarize the workshop's motivation, goals, and outline (10:00-10:15).
 This will be followed by short introductory presentations of the workshop participants (in Pecha Kucha style) to get familiar with each other and to get to know the topics they are working on.
