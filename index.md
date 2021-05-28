@@ -157,7 +157,7 @@ The presentation session will be broken into two parts with a short break in bet
 Besides, significant progress in sensing technologies and modalities have led to a constant increase in unobtrusive and affordable head-worn sensing devices, such as smart glasses like Google Glass or J!NS meme.
 With the resulting increasing ubiquity of the technology, new opportunities arise for applications that track social behaviours and interactions between groups of people in real-world settings.</p>
 
-<p class="py-4 border-top">This workshop aims to identify key factors in large-scale uses of eyewear computing.
+<p class="py-4 pt-2">This workshop aims to identify key factors in large-scale uses of eyewear computing.
 More precisely, we are going to summarize lessons learned from early deployment, focus on ways to empower the community with high-quality hardware and software prototyping tools, and will specifically discuss the establishment of open source datasets.
 With the wider distribution of head-worn sensing technology to the public, long-term impacts of the technology become increasingly important.
 Therefore, we also welcome topics that are concerned with physical or psychological aspects of head-worn sensing devices.
