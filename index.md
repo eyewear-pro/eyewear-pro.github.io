@@ -60,6 +60,8 @@ layout: none
 </h1>
           <h1 class="display-2">Augmenting Social Situations and Democratizing Tools</h1>
           <h2 class="mb-0 pb-md-3 mt-2">Eyewear 2021: The Forth Workshop on Eyewear Computing</h2>
+          <h2 class="mb-0 pb-md-3 mt-2">Paper Deadline: June 30th Over Precision conference</h2>
+
           <a href="#call-for-participation" class="btn btn-xl btn-danger-c rounded-pill my-4">Call for participation</a>
         </div>
       </div>
@@ -153,6 +155,11 @@ The presentation session will be broken into two parts with a short break in bet
         <h2 class="display-4 text-left mb-1 mt-2 mb-md-5 mt-md-4 px-2 text-warning">Call for participation</h2>
         <div class="big px-2 lh-md">
         <p class="py-2 mb-4">
+          Paper Deadline 30th June 2021 over 
+           <a href="https://new.precisionconference.com/submissions"> the Precision conference Submissions Website </a>
+          Select SIGCHI, UbiComp/ISWC 2021 and the Eyewear Computing Workshop.
+          </p>
+         <p class="py-2 mb-4">   
           The human face, holding the majority of human senses, provides versatile information about a person's cognitive and affective states. Using head-worn technology, user states, such as reading, walking, detection of fatigue or cognitive load, can be recognized and enable new application scenarios, such as quantified self for the mind.
 Besides, significant progress in sensing technologies and modalities have led to a constant increase in unobtrusive and affordable head-worn sensing devices, such as smart glasses like Google Glass or J!NS meme.
 With the resulting increasing ubiquity of the technology, new opportunities arise for applications that track social behaviours and interactions between groups of people in real-world settings.</p>
