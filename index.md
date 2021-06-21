@@ -60,6 +60,7 @@ layout: none
 </h1>
           <h1 class="display-2">Augmenting Social Situations and Democratizing Tools</h1>
           <h2 class="mb-0 pb-md-3 mt-2">Eyewear 2021: The Forth Workshop on Eyewear Computing</h2>
+                    <h2 class="mb-0 pb-md-3 mt-2">25th September 2021, before UbiComp/ISWC</h2>
           <h2 class="mb-0 pb-md-3 mt-2">Paper Deadline: 30th June 2021</h2>
 
           <a href="#call-for-participation" class="btn btn-xl btn-danger-c rounded-pill my-4">Call for participation</a>
