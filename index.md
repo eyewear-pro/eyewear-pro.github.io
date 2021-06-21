@@ -99,8 +99,10 @@ layout: none
 This will be followed by short introductory presentations of the workshop participants (in Pecha Kucha style) to get familiar with each other and to get to know the topics they are working on.
 The presentation session will be broken into two parts with a short break in between. This will allow enough time to discuss different ideas coming out from the presentations.</p>
 
-<h5 class="my-3 mt-5">Keynote <span class="badge badge-warning mx-2 pb-2">11:30 - 12:30</span></h5>
-<p>The keynote will be given by Prof. Thad Starner (Georgia Tech, Google Glass Development Lead).</p>
+<h5 class="my-3 mt-5">Keynotes <span class="badge badge-warning mx-2 pb-2">11:30 - 12:30</span></h5>
+<p>One keynote will be given by Prof. Thad Starner (Georgia Tech).</p>
+<p>Others will be announced later, stay tuned.</p>
+
 
 <h5 class="my-3 mt-5">Demonstration Session</h5>
 <p>We encourage participants to demonstrate research prototypes related to their submissions. Depending on the number of demonstrations we will hold a separate session or do small show-and-tells in small breaks.</p>
