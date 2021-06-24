@@ -126,7 +126,7 @@ The presentation session will be broken into two parts with a short break in bet
       <div class="col-lg-10 py-xl-4 my-xl-2 m-auto  bg-gray-800 rounded-12 px-md-5 px-2 py-5 text-white">
         <h2 class="display-4 text-left mb-1 mt-2 mb-md-5 mt-md-4 px-2">Organizers</h2>
         <div class="big px-2 lh-md">
-          <p class="py-2"><strong class="text-info">Kirill Ragozin</strong> is a postdoctoral researcher at Keio University Graduate School of Media Design. His major research contributions are in mixed reality and embodied thermal interactions. His research interests include immersive digital media, eye tracking and interaction design using wearable electronics.
+          <p class="py-2"><strong class="text-info">Kirill Ragozin</strong> is a postdoctoral researcher at Keio University Graduate School of Media Design. His major research contributions are in mixed reality and embodied thermal interactions. His research interests include immersive digital media, eye tracking and interaction design.
           </p>
 
           <p class="py-2"><strong class="text-info">Kai Kunze</strong> is a Professor at Keio University Graduate School of Media Design. His major research contributions are in pervasive computing with a focus on augmenting human abilities.
