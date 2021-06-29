@@ -162,6 +162,8 @@ The presentation session will be broken into two parts with a short break in bet
            <a href="https://new.precisionconference.com/submissions"> the Precision conference Submissions Website </a>
           Select SIGCHI, UbiComp/ISWC 2021 and the Eyewear Computing Workshop.
           </p>
+          
+           <p class="py-2 mb-4">  Submissions should use the ACM ‘sigconf' template <a href="https://www.acm.org/publications/proceedings-template"> ‘sigconf' template </a> and should not be longer than 8 pages including references. All submissions will be peer-reviewed by a program committee. </p>
          <p class="py-2 mb-4">   
           The human face, holding the majority of human senses, provides versatile information about a person's cognitive and affective states. Using head-worn technology, user states, such as reading, walking, detection of fatigue or cognitive load, can be recognized and enable new application scenarios, such as quantified self for the mind.
 Besides, significant progress in sensing technologies and modalities have led to a constant increase in unobtrusive and affordable head-worn sensing devices, such as smart glasses like Google Glass or J!NS meme.
