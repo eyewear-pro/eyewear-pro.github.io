@@ -93,7 +93,7 @@ layout: none
     <div class="row g-0">
       <div class="col-lg-10 py-xl-4 my-xl-2 m-auto rounded-12 px-md-5 px-2 py-5 text-white kw-bg-blue">
         <h2 class="display-4 text-left mb-1 mt-2 mb-md-0 mt-md-4 px-2">Program</h2>
-        <div class="big px-2 lh-md">
+        {%- comment -%} <div class="big px-2 lh-md">
           <h2 class="my-3 pt-3 pt-md-5">Workshop activities</h2>
           <h5 class="my-3 mt-4">Welcome <span class="badge badge-warning mx-2 pb-2">10:00 - 11:30</span></h5>
           <p>The workshop will start with an introduction given by the workshop organizers in which they will summarize the workshop's motivation, goals, and outline (10:00-10:15).
@@ -116,7 +116,123 @@ The presentation session will be broken into two parts with a short break in bet
 
 <h2 class="mt-5 pt-5 mb-3 border-top">Post-Workshop Follow Up</h2>
 <p>Organizers will document the outcome of the above analysis, and make this information available to the all participants through a shared Google Drive folder. Participants will be invited to an existing Slack channel where they can share papers relevant to the workshop themes. We will start a Data-set directory on based on the participants submissions during the workshop to make it easier to access useful datasets and tools.</p>
-        </div>
+        </div> {%- endcomment -%}
+
+      <div class="big px-2 lh-md">
+      <h5 class="my-3 mt-5">Keynote<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <p>Keynote will be given by Prof. Thad Starner (Georgia Tech).</p>
+
+      <h5 class="my-3 mt-5">Session One: Tecnhology<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <p>Project Ariel: An Open Source Augmented Reality Headset for Industrial Applications, James O Campbell, Vincent Ta, Alvaro Cassinelli, Damien Rompapas</p>
+      <p>A Sub-Milliwatt and Sub-Millisecond 3-D Gaze Estimator for Ultra Low-Power AR Applications, Sungmin Moon, Chao Zhang, Sooill Park, Hui Zhang, Woo-Shik Kim, Jong Hwan Ko</p>
+      <p>Prototyping Smart Eyewear with Capacitive Sensing for Facial and Head Gesture Detection Denys J.C. Matthies, Alex Woodall, Bodo Urban
+10 min discussion</p>
+
+      <h5 class="my-3 mt-5">Showcase<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <p>We encourage participants to demonstrate research prototypes related to their submissions.</p>
+
+      <h5 class="my-3 mt-5">Session Two: Applications<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <p>The Predictive Power of Eye-Tracking Data in an Interactive AR Learning Environment Dr David Dzsotjan, Kim Ludwig-Petsch, Sergey Mukhametov, Stefan Kuechemann, Jochen Kuhn</p>
+      <p>Using Smart Eyewear to Sense Electrodermal Activity While Reading Christopher Changmok Kim, Jiawen Han, Dingding Zheng, George Chernyshov, Kai Kunze</p>
+      <p>Effects of Counting Seconds in the Mind while Reading Pramod Vadiraja, Jayasankar Santhosh, Hanane Moulay, Andreas Dengel, Shoya Ishimaru</p>
+
+      <h5 class="my-3 mt-5">Closing<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <p>We will summarize the key experiences from the workshop and will plan follow up activities.</p>
+    
+
+    <h2 class="display-4 mt-5 mb-3">Timetable</h2>
+    <div style="overflow-x:scroll; white-space: nowrap;">
+    
+    <table class="table table-striped table-light">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">PDT (US)</th>
+      <th scope="col">EDT (US)</th>
+      <th scope="col">CEST (Europe)</th>
+      <th scope="col">JST (Japan)</th>
+      <th scope="col">AEST (Australia)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Keynote</th>
+      <td>06:30</td>
+      <td>09:30</td>
+      <td>15:30</td>
+      <td>22:30</td>
+      <td>23:30</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td>07:00</td>
+      <td>10:00</td>
+      <td>16:00</td>
+      <td>23:00</td>
+      <td>00:00</td>
+    </tr>
+    <tr>
+      <th scope="row">Session One: Technology</th>
+      <td>07:30</td>
+      <td>10:30</td>
+      <td>16:30</td>
+      <td>23:30</td>
+      <td>00:30</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td>08:00</td>
+      <td>11:00</td>
+      <td>17:00</td>
+      <td>00:00</td>
+      <td>01:00</td>
+    </tr>
+    <tr>
+      <th scope="row">Showcase</th>
+      <td>08:30</td>
+      <td>11:30</td>
+      <td>17:30</td>
+      <td>00:30</td>
+      <td>01:30</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td>09:00</td>
+      <td>12:00</td>
+      <td>18:00</td>
+      <td>01:00</td>
+      <td>02:00</td>
+    </tr>
+    <tr>
+      <th scope="row">Session Two: Applications</th>
+      <td>9:30</td>
+      <td>12:30</td>
+      <td>18:30</td>
+      <td>1:30</td>
+      <td>2:30</td>
+    </tr>
+    <tr>
+      <th scope="row">Closing</th>
+      <td>10:00</td>
+      <td>13:00</td>
+      <td>19:00</td>
+      <td>02:00</td>
+      <td>03:00</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td>10:30</td>
+      <td>13:30</td>
+      <td>19:30</td>
+      <td>02:30</td>
+      <td>03:30</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+      {%- comment -%} <p>Others will be announced later, stay tuned.</p> {%- endcomment -%}
+
       </div>
     </div>
   </section>
