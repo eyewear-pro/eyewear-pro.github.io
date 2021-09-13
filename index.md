@@ -119,24 +119,24 @@ The presentation session will be broken into two parts with a short break in bet
         </div> {%- endcomment -%}
 
       <div class="big px-2 lh-md">
-      <h5 class="my-3 mt-5">Keynote<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <h5 class="my-3 mt-5">Keynote<span class="badge badge-warning mx-2 pb-2">13:30 - 14:30 UTC</span></h5>
       <p>Keynote will be given by Prof. Thad Starner (Georgia Tech).</p>
 
-      <h5 class="my-3 mt-5">Session One: Tecnhology<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <h5 class="my-3 mt-5">Session One: Tecnhology<span class="badge badge-warning mx-2 pb-2">14:30 - 15:30 UTC</span></h5>
       <p>Project Ariel: An Open Source Augmented Reality Headset for Industrial Applications, James O Campbell, Vincent Ta, Alvaro Cassinelli, Damien Rompapas</p>
       <p>A Sub-Milliwatt and Sub-Millisecond 3-D Gaze Estimator for Ultra Low-Power AR Applications, Sungmin Moon, Chao Zhang, Sooill Park, Hui Zhang, Woo-Shik Kim, Jong Hwan Ko</p>
       <p>Prototyping Smart Eyewear with Capacitive Sensing for Facial and Head Gesture Detection Denys J.C. Matthies, Alex Woodall, Bodo Urban
 10 min discussion</p>
 
-      <h5 class="my-3 mt-5">Showcase<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <h5 class="my-3 mt-5">Showcase<span class="badge badge-warning mx-2 pb-2">15:30 - 16:30 UTC</span></h5>
       <p>We encourage participants to demonstrate research prototypes related to their submissions.</p>
 
-      <h5 class="my-3 mt-5">Session Two: Applications<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <h5 class="my-3 mt-5">Session Two: Applications<span class="badge badge-warning mx-2 pb-2">16:30 - 17:30 UTC</span></h5>
       <p>The Predictive Power of Eye-Tracking Data in an Interactive AR Learning Environment Dr David Dzsotjan, Kim Ludwig-Petsch, Sergey Mukhametov, Stefan Kuechemann, Jochen Kuhn</p>
       <p>Using Smart Eyewear to Sense Electrodermal Activity While Reading Christopher Changmok Kim, Jiawen Han, Dingding Zheng, George Chernyshov, Kai Kunze</p>
       <p>Effects of Counting Seconds in the Mind while Reading Pramod Vadiraja, Jayasankar Santhosh, Hanane Moulay, Andreas Dengel, Shoya Ishimaru</p>
 
-      <h5 class="my-3 mt-5">Closing<span class="badge badge-warning mx-2 pb-2">&nbsp;</span></h5>
+      <h5 class="my-3 mt-5">Closing<span class="badge badge-warning mx-2 pb-2">17:30 - 18:00 UTC</span></h5>
       <p>We will summarize the key experiences from the workshop and will plan follow up activities.</p>
     
 
@@ -212,7 +212,7 @@ The presentation session will be broken into two parts with a short break in bet
       <td>2:30</td>
     </tr>
     <tr>
-      <th scope="row">Closing</th>
+      <th scope="row"></th>
       <td>10:00</td>
       <td>13:00</td>
       <td>19:00</td>
@@ -220,7 +220,7 @@ The presentation session will be broken into two parts with a short break in bet
       <td>03:00</td>
     </tr>
     <tr>
-      <th scope="row"></th>
+      <th scope="row">Closing</th>
       <td>10:30</td>
       <td>13:30</td>
       <td>19:30</td>
