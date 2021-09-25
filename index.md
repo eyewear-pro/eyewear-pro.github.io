@@ -128,11 +128,11 @@ The presentation session will be broken into two parts with a short break in bet
       <p>Prototyping Smart Eyewear with Capacitive Sensing for Facial and Head Gesture Detection Denys J.C. Matthies, Alex Woodall, Bodo Urban
 10 min discussion</p>
 
-      <h5 class="my-3 mt-5">Showcase<span class="badge badge-warning mx-2 pb-2">15:30 - 16:30 UTC</span></h5>
+      <h5 class="my-3 mt-5">Showcase<span class="badge badge-warning mx-2 pb-2">15:30 - 16:00 UTC</span></h5>
       <p>We encourage participants to demonstrate research prototypes related to their submissions.</p>
 
-      <h5 class="my-3 mt-5">Session Two: Applications<span class="badge badge-warning mx-2 pb-2">16:30 - 17:30 UTC</span></h5>
-      <p>The Predictive Power of Eye-Tracking Data in an Interactive AR Learning Environment Dr David Dzsotjan, Kim Ludwig-Petsch, Sergey Mukhametov, Stefan Kuechemann, Jochen Kuhn</p>
+      <h5 class="my-3 mt-5">Session Two: Applications<span class="badge badge-warning mx-2 pb-2">16:00 - 17:00 UTC</span></h5>
+      <p>The Predictive Power of Eye-Tracking Data in an Interactive AR Learning Environment Dr David Dzsotjan, Kim Ludwig-Petsch, Sergey Mukhametov,Shoya Ishimaru, Stefan Kuechemann, Jochen Kuhn</p>
       <p>Using Smart Eyewear to Sense Electrodermal Activity While Reading Christopher Changmok Kim, Jiawen Han, Dingding Zheng, George Chernyshov, Kai Kunze</p>
       <p>Effects of Counting Seconds in the Mind while Reading Pramod Vadiraja, Jayasankar Santhosh, Hanane Moulay, Andreas Dengel, Shoya Ishimaru</p>
 
